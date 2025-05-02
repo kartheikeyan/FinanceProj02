@@ -1,2 +1,1 @@
-# FinanceProj02
-This is testing proj
+This is my time
